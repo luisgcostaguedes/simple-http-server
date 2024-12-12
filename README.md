@@ -22,5 +22,5 @@ Basta clonar o repositório, acessar a pasta e executar o comando `go run main.g
 
 2. Clone este repositório e navegue até a pasta:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/luisgcostaguedes/simple-http-server.git
+   cd simple-http-server
